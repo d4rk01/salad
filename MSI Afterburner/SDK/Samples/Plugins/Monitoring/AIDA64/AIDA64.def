@@ -1,5 +1,0 @@
-; AIDA64.def : Declares the module parameters for the DLL.
-
-LIBRARY      "AIDA64"
-
-EXPORTS

@@ -1,5 +1,0 @@
-Setup plugin
-Allows configuring currently selected hardware monitoring plugin module, if it supports user configurable settings.
-
-Hints:
-- You may disable user interface tooltips via <User interface> tab in advanced properties.

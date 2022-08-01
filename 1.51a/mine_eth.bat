@@ -10,7 +10,7 @@ set "POOL=daggerhashimoto.usa-east.nicehash.com:3353"
 set "POOL2=daggerhashimoto.usa-east.nicehash.com:3353"
 set "WALLET=33kJvAUL3Na2ifFDGmUPsZLTyDUBGZLhAi.7b648oe1vu63vs3"										
 
-set "EXTRAPARAMETERS="
+set "EXTRAPARAMETERS= --disable-dag-verify"
 
 Rem #################################
 Rem ##  End of user-editable part  ##
